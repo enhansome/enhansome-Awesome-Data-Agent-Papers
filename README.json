@@ -1,122 +1,68 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "🏆 Benchmarks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Data Agent Benchmarks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Benchmarks for Tabular Data"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧹 Data Preparation & Integration"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "💬 NL2SQL (Text-to-SQL)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📋 Table Understanding & Reasoning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧱 Table Generation, Curation & Synthesis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📊 Data Analysis & Insight Discovery"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔬 Data Science & Machine Learning Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🛠️ Database Operations & Diagnosis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧠 Agent Memory & Context Engineering"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧩 General Agent Techniques"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🌐 Community & Resources"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "NL2SQL_Handbook",
-          "description": "Continuously-updated handbook of Text-to-SQL techniques",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-28T08:54:04Z",
-            "owner": "HKUSTDial",
-            "repo": "NL2SQL_Handbook",
-            "stars": 1566
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome-Tabular-LLMs",
-          "description": "Papers on LLMs for table-related tasks",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-09T09:31:42Z",
-            "owner": "SpursGoZmy",
-            "repo": "Awesome-Tabular-LLMs",
-            "stars": 633
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-ml-data-quality-papers",
-          "description": "Training-data quality for ML — data attribution & data selection (sibling SJTU-DMTai list)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-13T14:56:58Z",
-            "owner": "SJTU-DMTai",
-            "repo": "awesome-ml-data-quality-papers",
-            "stars": 126
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NL2SQL_Handbook",
+              "description": "Continuously-updated handbook of Text-to-SQL techniques",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 803643412,
+                "language": "Python",
+                "last_commit": "2026-07-28T08:54:04Z",
+                "owner": "HKUSTDial",
+                "repo": "NL2SQL_Handbook",
+                "stars": 1566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-Tabular-LLMs",
+              "description": "Papers on LLMs for table-related tasks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 659646465,
+                "language": null,
+                "last_commit": "2026-04-09T09:31:42Z",
+                "owner": "SpursGoZmy",
+                "repo": "Awesome-Tabular-LLMs",
+                "stars": 633
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-ml-data-quality-papers",
+              "description": "Training-data quality for ML — data attribution & data selection (sibling SJTU-DMTai list)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 767484103,
+                "language": null,
+                "last_commit": "2026-06-13T14:56:58Z",
+                "owner": "SJTU-DMTai",
+                "repo": "awesome-ml-data-quality-papers",
+                "stars": 126
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 Related Repositories"
         }
       ],
-      "title": "🔗 Related Repositories"
+      "title": "🌐 Community & Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:49:35.660Z",
+    "last_updated": "2026-08-19T12:07:07.902Z",
     "original_repository": "SJTU-DMTai/Awesome-Data-Agent-Papers",
+    "original_repository_id": 1076590171,
     "original_repository_sha": "c9c55cbafc0c46d11e6e9e8caecf0e43306e404f",
     "enhanced_repository": "enhansome/enhansome-Awesome-Data-Agent-Papers",
     "enhanced_repository_description": null,
