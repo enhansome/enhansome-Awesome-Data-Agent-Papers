@@ -7,6 +7,1004 @@
           "children": [
             {
               "node_type": "item",
+              "title": "DSGym",
+              "description": "James Zou 2026 paper code Standardized end-to-end evaluation of data-science agents in self-contained execution environments, spanning bioinformatics and prediction tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1142659361,
+                "language": "Python",
+                "last_commit": "2026-05-19T18:01:19Z",
+                "owner": "fannie1208",
+                "repo": "DSGym",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DAB",
+              "description": "Shreya Shankar 2026 paper code Enterprise data agents answering end-to-end natural-language questions over heterogeneous databases, with data integration and unstructured extraction.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1005072875,
+                "language": "Python",
+                "last_commit": "2026-08-19T19:36:37Z",
+                "owner": "ucbepic",
+                "repo": "DataAgentBench",
+                "stars": 144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DAComp",
+              "description": "Kang Liu 2025 paper code Data agents across the full enterprise lifecycle — repository-level SQL pipeline construction and open-ended business analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1112214958,
+                "language": "Python",
+                "last_commit": "2026-07-10T08:58:12Z",
+                "owner": "ByteDance-Seed",
+                "repo": "DAComp",
+                "stars": 437
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PredictiQ",
+              "description": "Xiaojun Ma 2025 paper code Predictive-analysis ability across domains, pairing predictive queries with real datasets and checking text–code alignment.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 988160722,
+                "language": null,
+                "last_commit": "2025-05-22T06:31:09Z",
+                "owner": "Cqkkkkkk",
+                "repo": "PredictiQ",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InsightBench",
+              "description": "Issam Hadj Laradji 2025 paper code End-to-end business analytics and insight discovery — posing questions, interpreting answers, and summarizing findings (ICLR'25).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 813817183,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-05-06T17:39:59Z",
+                "owner": "ServiceNow",
+                "repo": "insight-bench",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FDABench",
+              "description": "Gao Cong 2025 paper code Agents in multi-source scenarios, fusing structured (DB) and unstructured (PDF/audio) data into analytical answers and reports.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1048619609,
+                "language": "Python",
+                "last_commit": "2026-08-06T14:23:15Z",
+                "owner": "fdabench",
+                "repo": "FDAbench",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DSBench",
+              "description": "Dong Yu 2025 paper code Realistic data-science tasks — cleaning, transformation, visualization, modeling — over long-horizon problems with live data stacks (ICLR'25).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 856142556,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-08-17T17:16:55Z",
+                "owner": "LiqiangJing",
+                "repo": "DSBench",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DataSciBench",
+              "description": "Yisong Yue 2025 paper code Data-science tasks with uncertain ground truth, evaluated via a Task–Function–Code framework across the analysis lifecycle.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 935545951,
+                "language": "Python",
+                "last_commit": "2026-01-21T06:17:23Z",
+                "owner": "THUDM",
+                "repo": "DataSciBench",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfiAgent-DABench",
+              "description": "Jingjing Xu 2024 paper code Closed-form data-analysis tasks over CSVs in Python, with answers matched to canonical labels (ICML'24).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732411759,
+                "language": "Python",
+                "last_commit": "2025-05-29T02:30:44Z",
+                "owner": "InfiAgent",
+                "repo": "InfiAgent",
+                "stars": 205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DSEval",
+              "description": "Kan Ren 2024 paper code Full data-science lifecycle evaluated via bootstrapped annotation over sequences of interdependent problems (Kaggle/LeetCode).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 719432236,
+                "language": "Python",
+                "last_commit": "2024-06-24T10:37:22Z",
+                "owner": "MetaCopilot",
+                "repo": "dseval",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards",
+              "description": "Daniel Kang 2026 paper code This benchmark evaluates pervasive annotation errors in text-to-SQL datasets, finding over 50% error rates in BIRD and Spider 2.0-Snow that significantly distort agent performance and leaderboard rankings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1031354537,
+                "language": "Python",
+                "last_commit": "2026-07-08T02:54:23Z",
+                "owner": "uiuc-kang-lab",
+                "repo": "text_to_sql_benchmarks",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Agent Benchmarks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MDBench",
+              "description": "Reasoning 2025 paper Multi-document table reasoning, synthetically generated via knowledge-guided prompting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 876837422,
+                "language": "Python",
+                "last_commit": "2025-07-30T09:36:47Z",
+                "owner": "jpeper",
+                "repo": "MDBench",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ToRR",
+              "description": "Reasoning 2025 paper code Table reasoning and robustness across 10 datasets, probing brittleness to serialization and perturbation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 654096725,
+                "language": "Python",
+                "last_commit": "2026-05-27T12:07:13Z",
+                "owner": "IBM",
+                "repo": "unitxt",
+                "stars": 217
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MMTU",
+              "description": "Comprehensive 2025 paper code Massive multi-task table understanding — 30K+ questions over 25 real-world table tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 981250870,
+                "language": "Python",
+                "last_commit": "2025-12-11T06:55:42Z",
+                "owner": "MMTU-Benchmark",
+                "repo": "MMTU",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spider2",
+              "description": "Text2SQL 2025 paper code Real-world enterprise Text-to-SQL over BigQuery/Snowflake, with long contexts and 100+-line queries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 845868425,
+                "language": "HTML",
+                "last_commit": "2026-08-12T13:01:36Z",
+                "owner": "xlang-ai",
+                "repo": "Spider2",
+                "stars": 859
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TableBench",
+              "description": "Reasoning 2024 paper code Table QA across 18 fields and 4 complexity levels — fact-checking, numerical reasoning, analysis, and visualization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 833578027,
+                "language": "Python",
+                "last_commit": "2025-05-08T06:37:57Z",
+                "owner": "TableBench",
+                "repo": "TableBench",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TQA-Bench",
+              "description": "Reasoning 2024 paper code Multi-table QA with scalable long context (up to 64k tokens) over relational databases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 868298895,
+                "language": "Python",
+                "last_commit": "2025-12-24T11:53:44Z",
+                "owner": "Relaxed-System-Lab",
+                "repo": "TQA-Bench",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpreadsheetBench",
+              "description": "Reasoning 2024 paper code Real-world spreadsheet manipulation from Excel forums — find, extract, modify, calculate, and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811696482,
+                "language": "Python",
+                "last_commit": "2026-03-12T03:58:22Z",
+                "owner": "RUCKBReasoning",
+                "repo": "SpreadsheetBench",
+                "stars": 197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FinQA",
+              "description": "Reasoning 2021 paper code Multi-step numerical reasoning over financial-report tables and text.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 367182484,
+                "language": "Python",
+                "last_commit": "2022-06-06T02:13:26Z",
+                "owner": "czyssrs",
+                "repo": "FinQA",
+                "stars": 386
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FeTaQA",
+              "description": "Reasoning 2021 paper code Free-form table QA requiring generative, explanatory answers rather than short spans.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353207321,
+                "language": "Python",
+                "last_commit": "2023-05-11T15:34:50Z",
+                "owner": "Yale-LILY",
+                "repo": "FeTaQA",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HiTab",
+              "description": "Reasoning 2022 paper code Question answering and natural-language generation over hierarchical (matrix) tables.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 390626504,
+                "language": "Python",
+                "last_commit": "2025-12-16T12:36:13Z",
+                "owner": "microsoft",
+                "repo": "HiTab",
+                "stars": 110
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Benchmarks for Tabular Data"
+        }
+      ],
+      "title": "🏆 Benchmarks"
+    },
+    {
+      "description": "Agents that clean, transform, impute, and integrate data — structured or unstructured — before analysis.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KDD'26",
+          "description": "IRG: Modular Synthetic Relational Database Generation with Complex Relational Schemas Y. C. Tay paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1029526002,
+            "language": "Python",
+            "last_commit": "2026-02-18T15:01:19Z",
+            "owner": "li-jiayu-ljy",
+            "repo": "irg",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICLR'25",
+          "description": "TabDiff: a Mixed-type Diffusion Model for Tabular Data Generation Jure Leskovec paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 879441589,
+            "language": "Python",
+            "last_commit": "2025-06-02T23:13:03Z",
+            "owner": "MinkaiXu",
+            "repo": "TabDiff",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACL'25",
+          "description": "TableLLM: Enabling Tabular Data Manipulation by LLMs in Real Office Usage Scenarios Jie Tang paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 754023496,
+            "language": "Python",
+            "last_commit": "2025-08-20T03:38:44Z",
+            "owner": "RUCKBReasoning",
+            "repo": "TableLLM",
+            "stars": 254
+          }
+        }
+      ],
+      "title": "🧹 Data Preparation & Integration"
+    },
+    {
+      "description": "Translating natural language questions into SQL, increasingly via agentic exploration, decomposition, and self-correction. See also papers tagged in other sections.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KDD'26",
+          "description": "APEX-SQL: Talking to the data via Agentic Exploration for Text-to-SQL Wai Lam paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1241975714,
+            "language": "Python",
+            "last_commit": "2026-05-18T02:59:14Z",
+            "owner": "Tencent",
+            "repo": "APEX-SQL-Project",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICML'26",
+          "description": "Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL Wei Xu paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1150228280,
+            "language": "Python",
+            "last_commit": "2026-02-23T13:23:15Z",
+            "owner": "Satissss",
+            "repo": "SquRL",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv'26.07",
+          "description": "Spider 2.0-AIFunc: Extending Real-World Text-to-SQL to AI-Native SQL Workflows Yuxiong He paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1292220804,
+            "language": "Python",
+            "last_commit": "2026-07-08T04:26:31Z",
+            "owner": "Leolty",
+            "repo": "Spider2-AIFunc",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv'26.05",
+          "description": "FINER-SQL: Boosting Small Language Models for Text-to-SQL Quoc Viet Hung Nguyen paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1082309459,
+            "language": "Python",
+            "last_commit": "2026-05-06T07:53:58Z",
+            "owner": "thanhdath",
+            "repo": "finer-sql",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv'26.05",
+          "description": "FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents Jocelyn Qiaochu Chen paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1228567294,
+            "language": "Python",
+            "last_commit": "2026-08-21T16:38:43Z",
+            "owner": "StringNLPLAB",
+            "repo": "FlexSQL",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv'26.04",
+          "description": "AV-SQL: Decomposing Complex Text-to-SQL Queries with Agentic Views Thanh Tam Nguyen paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1190328062,
+            "language": "Python",
+            "last_commit": "2026-07-03T05:45:40Z",
+            "owner": "pminhtam",
+            "repo": "AV-SQL",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EDBT'25",
+          "description": "DBCopilot: Natural Language Querying over Massive Databases via Schema Routing Zhenyu Zeng paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 660099519,
+            "language": "Python",
+            "last_commit": "2025-08-25T08:54:57Z",
+            "owner": "tshu-w",
+            "repo": "DBCopilot",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COLING'25",
+          "description": "MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL Zhoujun Li paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 733015849,
+            "language": "Python",
+            "last_commit": "2025-02-27T04:02:02Z",
+            "owner": "wbbeyourself",
+            "repo": "MAC-SQL",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeurIPS'25",
+          "description": "SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning Jian Guo paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 981865038,
+            "language": "Python",
+            "last_commit": "2025-11-20T15:04:13Z",
+            "owner": "DataArcTech",
+            "repo": "SQL-R1",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv'25.11",
+          "description": "MARS-SQL: A multi-agent reinforcement learning framework for Text-to-SQL Yi R. Fung paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1086563121,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:15:32Z",
+            "owner": "YangHaolin0526",
+            "repo": "MARS-SQL",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv'25.02",
+          "description": "SQL-o1: A Self-Reward Heuristic Dynamic Search Method for Text-to-SQL Yifan Zhu paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 933958339,
+            "language": "Python",
+            "last_commit": "2025-05-23T01:54:17Z",
+            "owner": "ShuaiLyu0110",
+            "repo": "SQL-o1",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLDB'24",
+          "description": "Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation Jingren Zhou paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 684399912,
+            "language": "Python",
+            "last_commit": "2025-03-07T03:42:22Z",
+            "owner": "BeachWang",
+            "repo": "DAIL-SQL",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv'24.10",
+          "description": "RSL-SQL: Robust Schema Linking in Text-to-SQL Generation Xiang Bai paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 880349270,
+            "language": "Python",
+            "last_commit": "2025-09-17T03:09:23Z",
+            "owner": "Laqcce-cao",
+            "repo": "RSL-SQL",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICLR'23",
+          "description": "Binding Language Models in Symbolic Languages Tao Yu paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 547117825,
+            "language": "Python",
+            "last_commit": "2023-08-25T14:59:44Z",
+            "owner": "xlang-ai",
+            "repo": "Binder",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AAAI'23",
+          "description": "RESDSQL: Decoupling Schema Linking and Skeleton Parsing for Text-to-SQL Hong Chen paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 600767872,
+            "language": "Python",
+            "last_commit": "2024-05-13T02:45:33Z",
+            "owner": "RUCKBReasoning",
+            "repo": "RESDSQL",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv'23.12",
+          "description": "DB-GPT: Empowering Database Interactions with Private Large Language Models Faqiang Chen paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627480054,
+            "language": "Python",
+            "last_commit": "2026-08-21T01:55:03Z",
+            "owner": "eosphoros-ai",
+            "repo": "DB-GPT",
+            "stars": 19790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv'23.03",
+          "description": "A comprehensive evaluation of ChatGPT's zero-shot Text-to-SQL capability Philip S. Yu paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 612797794,
+            "language": "Python",
+            "last_commit": "2023-06-14T01:07:03Z",
+            "owner": "THU-BPM",
+            "repo": "chatgpt-sql",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EMNLP'22",
+          "description": "STAR: SQL Guided Pre-Training for Context-dependent Text-to-SQL Parsing Yongbin Li paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 514217147,
+            "language": "Python",
+            "last_commit": "2026-06-10T11:18:20Z",
+            "owner": "AlibabaResearch",
+            "repo": "DAMO-ConvAI",
+            "stars": 1578
+          }
+        }
+      ],
+      "title": "💬 NL2SQL (Text-to-SQL)"
+    },
+    {
+      "description": "Question answering and reasoning over tables and semi-structured data, including SQL-hybrid approaches.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ACL'26",
+          "description": "Towards Robust Real-World Spreadsheet Understanding with Multi-Agent Multi-Format Reasoning Hongsheng Li paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1066930770,
+            "language": "Python",
+            "last_commit": "2026-04-12T04:20:29Z",
+            "owner": "renhouxing",
+            "repo": "SpreadsheetAgent",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AAAI'25",
+          "description": "SheetBrain: A Neuro-Symbolic Agent for Accurate Reasoning over Complex and Large Spreadsheets Dongmei Zhang paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1052616930,
+            "language": "Python",
+            "last_commit": "2026-04-24T03:01:01Z",
+            "owner": "microsoft",
+            "repo": "SheetBrain",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "📋 Table Understanding & Reasoning"
+    },
+    {
+      "description": "Constructing and improving the tables themselves: synthetic table / tabular-data generation, table synthesis and augmentation, schema and column expansion, and dataset curation for training and evaluation.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ICDE'25",
+          "description": "Exploring the Heterogeneity of Tabular Data: A Diversity-aware Data Generator via LLMs Hongzhi Wang paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1099640051,
+            "language": "Python",
+            "last_commit": "2026-07-01T09:47:12Z",
+            "owner": "windblow32",
+            "repo": "DATE",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACL'25",
+          "description": "TableDreamer: Progressive and Weakness-guided Data Synthesis from Scratch for Table Instruction Tuning Weiping Wang paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 950423815,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-07-02T13:56:37Z",
+            "owner": "SpursGoZmy",
+            "repo": "TableDreamer",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EMNLP'24",
+          "description": "Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction Yangqiu Song paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 790124686,
+            "language": "Python",
+            "last_commit": "2024-06-05T18:37:50Z",
+            "owner": "HKUST-KnowComp",
+            "repo": "LiveSum",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "🧱 Table Generation, Curation & Synthesis"
+    },
+    {
+      "description": "End-to-end analytics systems: EDA, BI platforms, semantic operators over data lakes, report generation, and insight discovery.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "arXiv'26.06",
+          "description": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories James Zou paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1247622731,
+            "language": "Python",
+            "last_commit": "2026-07-05T13:40:54Z",
+            "owner": "QinghongLin",
+            "repo": "data2story-skill",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv'26.06",
+          "description": "Harnessing Generalist Agents for Contextualized Time Series Jingrui He paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1258554705,
+            "language": "Python",
+            "last_commit": "2026-06-07T05:03:21Z",
+            "owner": "iDEA-iSAIL-Lab-UIUC",
+            "repo": "TimeClaw",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv'26.06",
+          "description": "MoCA-Agent: A Market-of-Claims Code Agent for Financial and Numerical Reasoning Muhammad Abdul-Mageed paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1212792181,
+            "language": "Python",
+            "last_commit": "2026-06-09T13:59:38Z",
+            "owner": "UBC-NLP",
+            "repo": "MoCA-Agent",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "📊 Data Analysis & Insight Discovery"
+    },
+    {
+      "description": "Autonomous agents for the full data science lifecycle: modeling, AutoML, and Kaggle-style competitions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KDD'26",
+          "description": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management Hao Liu paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1254117045,
+            "language": "Python",
+            "last_commit": "2026-06-03T16:31:39Z",
+            "owner": "usail-hkust",
+            "repo": "EvoDS",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KDD'26",
+          "description": "Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis Huajun Chen paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 987637200,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:10:49Z",
+            "owner": "zjunlp",
+            "repo": "DataMind",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv'26.06",
+          "description": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery Lei Bai paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1157953649,
+            "language": "Python",
+            "last_commit": "2026-07-14T04:54:29Z",
+            "owner": "InternScience",
+            "repo": "MLEvolve",
+            "stars": 423
+          }
+        }
+      ],
+      "title": "🔬 Data Science & Machine Learning Agents"
+    },
+    {
+      "description": "Memory is a core capability for long-horizon data agents: episodic/procedural memory, memory operating systems, context folding, and experience-driven self-evolution.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ICML'26",
+          "description": "AdaMEM: Test-Time Adaptive Memory for Language Agents Lu Wang paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1250855509,
+            "language": "Python",
+            "last_commit": "2026-06-22T00:49:02Z",
+            "owner": "yunx-z",
+            "repo": "AdaMEM",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACL'26",
+          "description": "HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents Menglin Yang paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1203835467,
+            "language": "Python",
+            "last_commit": "2026-07-31T02:13:44Z",
+            "owner": "ReinerBRO",
+            "repo": "HeLa-Mem",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv'26.06",
+          "description": "Are We Ready For An Agent-Native Memory System? Fan Wu paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1277684919,
+            "language": null,
+            "last_commit": "2026-07-22T11:30:59Z",
+            "owner": "OpenDataBox",
+            "repo": "awesome-agent-memory",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv'26.05",
+          "description": "EvoMemBench: Benchmarking Agent Memory from a Self-Evolving Perspective Jia Li paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1241973776,
+            "language": "Python",
+            "last_commit": "2026-07-03T14:42:16Z",
+            "owner": "DSAIL-Memory",
+            "repo": "EvoMemBench",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "🧠 Agent Memory & Context Engineering"
+    },
+    {
+      "description": "General-purpose agent building blocks frequently used by data agents: planning, workflow generation, multi-agent frameworks, and RAG.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ICLR'26",
+          "description": "GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning Omar Khattab paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1032419366,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-23T23:41:14Z",
+            "owner": "gepa-ai",
+            "repo": "gepa",
+            "stars": 6210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICML'26",
+          "description": "SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety Hao Peng paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1229631352,
+            "language": "Python",
+            "last_commit": "2026-05-06T08:11:48Z",
+            "owner": "ljj-cyber",
+            "repo": "SafeHarbor",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICLR'25",
+          "description": "Flow: Modularized Agentic Workflow Automation Tongliang Liu paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 928713856,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-30T17:59:09Z",
+            "owner": "tmllab",
+            "repo": "2025_ICLR_FLOW",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CIDR'25",
+          "description": "Text2SQL is Not Enough: Unifying AI and Databases with TAG Matei Zaharia paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 847546926,
+            "language": "Python",
+            "last_commit": "2026-07-25T20:13:10Z",
+            "owner": "TAG-Research",
+            "repo": "TAG-Bench",
+            "stars": 765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICLR'23",
+          "description": "Large Language Models as Optimizers Xinyun Chen paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 699169039,
+            "language": "Python",
+            "last_commit": "2024-12-04T21:04:50Z",
+            "owner": "google-deepmind",
+            "repo": "opro",
+            "stars": 772
+          }
+        }
+      ],
+      "title": "🧩 General Agent Techniques"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "NL2SQL_Handbook",
               "description": "Continuously-updated handbook of Text-to-SQL techniques",
               "children": [],
@@ -17,7 +1015,7 @@
                 "last_commit": "2026-07-28T08:54:04Z",
                 "owner": "HKUSTDial",
                 "repo": "NL2SQL_Handbook",
-                "stars": 1568
+                "stars": 1569
               }
             },
             {
@@ -60,7 +1058,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:44:28.251Z",
+    "last_updated": "2026-08-24T14:50:35.818Z",
     "original_repository": "SJTU-DMTai/Awesome-Data-Agent-Papers",
     "original_repository_id": 1076590171,
     "original_repository_sha": "c9c55cbafc0c46d11e6e9e8caecf0e43306e404f",
