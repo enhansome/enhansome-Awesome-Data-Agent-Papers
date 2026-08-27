@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-19T19:36:37Z",
                 "owner": "ucbepic",
                 "repo": "DataAgentBench",
-                "stars": 148
+                "stars": 149
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-07-10T08:58:12Z",
                 "owner": "ByteDance-Seed",
                 "repo": "DAComp",
-                "stars": 437
+                "stars": 438
               }
             },
             {
@@ -461,7 +461,7 @@
             "last_commit": "2026-08-21T16:38:43Z",
             "owner": "StringNLPLAB",
             "repo": "FlexSQL",
-            "stars": 7
+            "stars": 8
           }
         },
         {
@@ -566,7 +566,7 @@
             "last_commit": "2025-03-07T03:42:22Z",
             "owner": "BeachWang",
             "repo": "DAIL-SQL",
-            "stars": 641
+            "stars": 640
           }
         },
         {
@@ -626,7 +626,7 @@
             "last_commit": "2026-08-26T11:10:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19800
+            "stars": 19805
           }
         },
         {
@@ -845,7 +845,7 @@
             "last_commit": "2026-07-14T04:54:29Z",
             "owner": "InternScience",
             "repo": "MLEvolve",
-            "stars": 426
+            "stars": 427
           }
         }
       ],
@@ -929,10 +929,10 @@
             "archived": false,
             "id": 1032419366,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-23T23:41:14Z",
+            "last_commit": "2026-08-26T23:31:18Z",
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 6251
+            "stars": 6263
           }
         },
         {
@@ -992,7 +992,7 @@
             "last_commit": "2024-12-04T21:04:50Z",
             "owner": "google-deepmind",
             "repo": "opro",
-            "stars": 773
+            "stars": 774
           }
         }
       ],
@@ -1015,7 +1015,7 @@
                 "last_commit": "2026-07-28T08:54:04Z",
                 "owner": "HKUSTDial",
                 "repo": "NL2SQL_Handbook",
-                "stars": 1575
+                "stars": 1577
               }
             },
             {
@@ -1058,9 +1058,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T17:46:06.704Z",
-    "original_repository": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "original_repository_id": 1076590171,
+    "last_updated": "2026-08-27T11:23:07.887Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1076590171,
+      "language": "Python",
+      "last_commit": "2026-07-31T07:49:09Z",
+      "owner": "SJTU-DMTai",
+      "repo": "Awesome-Data-Agent-Papers",
+      "stars": 53
+    },
     "original_repository_sha": "c9c55cbafc0c46d11e6e9e8caecf0e43306e404f",
     "enhanced_repository": "enhansome/enhansome-Awesome-Data-Agent-Papers",
     "enhanced_repository_description": null,
