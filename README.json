@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A holistic framework for advancing LLMs as data science agents",
+                "homepage": null,
                 "id": 1142659361,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-19T18:01:19Z",
+                "open_issues": 2,
                 "owner": "fannie1208",
                 "repo": "DSGym",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -28,12 +33,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmark for data agents",
+                "homepage": "https://ucbepic.github.io/DataAgentBench/",
                 "id": 1005072875,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-19T19:36:37Z",
+                "open_issues": 10,
                 "owner": "ucbepic",
                 "repo": "DataAgentBench",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "agents",
+                  "data-agents",
+                  "database-agent"
+                ]
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -44,12 +58,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2026] DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle",
+                "homepage": "https://da-comp.github.io",
                 "id": 1112214958,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-10T08:58:12Z",
+                "open_issues": 8,
                 "owner": "ByteDance-Seed",
                 "repo": "DAComp",
-                "stars": 438
+                "stars": 438,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -60,12 +79,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 988160722,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-22T06:31:09Z",
+                "open_issues": 0,
                 "owner": "Cqkkkkkk",
                 "repo": "PredictiQ",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -76,12 +100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 813817183,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-05-06T17:39:59Z",
+                "open_issues": 10,
                 "owner": "ServiceNow",
                 "repo": "insight-bench",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -92,12 +121,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥[KDD’26] Official repository for the paper “FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data”.",
+                "homepage": null,
                 "id": 1048619609,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-06T14:23:15Z",
+                "open_issues": 1,
                 "owner": "fdabench",
                 "repo": "FDAbench",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "chatgpt",
+                  "data",
+                  "data-analysis",
+                  "data-science",
+                  "data-visualization",
+                  "database",
+                  "dataset",
+                  "llama"
+                ]
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -108,12 +153,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] DSBench: How Far are Data Science Agents from Becoming Data Science Experts?",
+                "homepage": "https://liqiangjing.github.io/dsbench.github.io/",
                 "id": 856142556,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-17T17:16:55Z",
+                "open_issues": 2,
                 "owner": "LiqiangJing",
                 "repo": "DSBench",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "agent",
+                  "benchmark",
+                  "data-science",
+                  "large-language-models"
+                ]
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -124,12 +179,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DataSciBench: An LLM Agent Benchmark for Data Science (Findings of ACL 2026)",
+                "homepage": null,
                 "id": 935545951,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-21T06:17:23Z",
+                "open_issues": 1,
                 "owner": "THUDM",
                 "repo": "DataSciBench",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -140,12 +200,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks (ICML 2024)",
+                "homepage": "https://arxiv.org/abs/2401.05507",
                 "id": 732411759,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-29T02:30:44Z",
+                "open_issues": 9,
                 "owner": "InfiAgent",
                 "repo": "InfiAgent",
-                "stars": 205
+                "stars": 205,
+                "topics": [
+                  "agent",
+                  "llms"
+                ]
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -156,12 +224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://metacopilot.github.io/dseval/",
                 "id": 719432236,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-24T10:37:22Z",
+                "open_issues": 4,
                 "owner": "MetaCopilot",
                 "repo": "dseval",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -172,12 +245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[VLDB2026] Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards",
+                "homepage": null,
                 "id": 1031354537,
                 "language": "Python",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-08-27T14:52:58Z",
+                "open_issues": 5,
                 "owner": "uiuc-kang-lab",
                 "repo": "text_to_sql_benchmarks",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             }
@@ -195,12 +273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 876837422,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-30T09:36:47Z",
+                "open_issues": 0,
                 "owner": "jpeper",
                 "repo": "MDBench",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -211,12 +294,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦄 Unitxt is a Python library for enterprise-grade evaluation of AI performance, offering the world's largest catalog of  tools and data for end-to-end AI benchmarking",
+                "homepage": "https://www.unitxt.ai",
                 "id": 654096725,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-27T12:07:13Z",
+                "open_issues": 38,
                 "owner": "IBM",
                 "repo": "unitxt",
-                "stars": 217
+                "stars": 217,
+                "topics": [
+                  "ai",
+                  "data",
+                  "datasets",
+                  "evaluation",
+                  "evaluation-metrics",
+                  "llm",
+                  "mlops",
+                  "nlp",
+                  "nlp-library",
+                  "python",
+                  "vision"
+                ]
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -227,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 981250870,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-11T06:55:42Z",
+                "open_issues": 1,
                 "owner": "MMTU-Benchmark",
                 "repo": "MMTU",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -243,12 +348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025 Oral] Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows",
+                "homepage": "https://spider2-sql.github.io",
                 "id": 845868425,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
+                "open_issues": 119,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 861
+                "stars": 861,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -259,12 +369,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for paper \"TableBench: A Comprehensive and Complex Benchmark for Table Question Answering\"",
+                "homepage": "https://tablebench.github.io/",
                 "id": 833578027,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-08T06:37:57Z",
+                "open_issues": 0,
                 "owner": "TableBench",
                 "repo": "TableBench",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "llm",
+                  "tableqa"
+                ]
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -275,12 +393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Table Benchmark.",
+                "homepage": null,
                 "id": 868298895,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-24T11:53:44Z",
+                "open_issues": 1,
                 "owner": "Relaxed-System-Lab",
                 "repo": "TQA-Bench",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -291,12 +414,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SpreadsheetBench: Towards Challenging Real World Spreadsheet Manipulation",
+                "homepage": "https://spreadsheetbench.github.io/",
                 "id": 811696482,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-12T03:58:22Z",
+                "open_issues": 27,
                 "owner": "RUCKBReasoning",
                 "repo": "SpreadsheetBench",
-                "stars": 197
+                "stars": 197,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -307,12 +435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data and code for EMNLP 2021 paper \"FinQA: A Dataset of Numerical Reasoning over Financial Data\"",
+                "homepage": null,
                 "id": 367182484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-06T02:13:26Z",
+                "open_issues": 7,
                 "owner": "czyssrs",
                 "repo": "FinQA",
-                "stars": 387
+                "stars": 387,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -323,12 +456,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset for TACL 2022 paper: \"FeTaQA: Free-form Table Question Answering\"",
+                "homepage": null,
                 "id": 353207321,
                 "language": "Python",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2023-05-11T15:34:50Z",
+                "open_issues": 3,
                 "owner": "Yale-LILY",
                 "repo": "FeTaQA",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -339,12 +477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2022] A hierarchical table dataset for question answering and data-to-text generation.",
+                "homepage": null,
                 "id": 390626504,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-16T12:36:13Z",
+                "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "HiTab",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             }
@@ -366,12 +509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1029526002,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-18T15:01:19Z",
+            "open_issues": 0,
             "owner": "li-jiayu-ljy",
             "repo": "irg",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -382,12 +530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2025] TabDiff: a Mixed-type Diffusion Model for Tabular Data Generation",
+            "homepage": null,
             "id": 879441589,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-02T23:13:03Z",
+            "open_issues": 9,
             "owner": "MinkaiXu",
             "repo": "TabDiff",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -398,12 +551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TableLLM: Enabling Tabular Data Manipulation by LLMs in Real Office Usage Scenarios",
+            "homepage": null,
             "id": 754023496,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-20T03:38:44Z",
+            "open_issues": 4,
             "owner": "RUCKBReasoning",
             "repo": "TableLLM",
-            "stars": 254
+            "stars": 254,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         }
@@ -420,12 +578,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "APEX-SQL is an agentic Text-to-SQL framework that shifts the paradigm from passive schema perception to agentic exploration.",
+            "homepage": null,
             "id": 1241975714,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-18T02:59:14Z",
+            "open_issues": 0,
             "owner": "Tencent",
             "repo": "APEX-SQL-Project",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -436,12 +603,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL",
+            "homepage": null,
             "id": 1150228280,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-23T13:23:15Z",
+            "open_issues": 1,
             "owner": "Satissss",
             "repo": "SquRL",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -452,12 +624,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1292220804,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-08T04:26:31Z",
+            "open_issues": 0,
             "owner": "Leolty",
             "repo": "Spider2-AIFunc",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -468,12 +645,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICDE 2026] Boosting Small Language Models for Text-to-SQL with Fine-Grained Execution Feedback and Cost-Efficient Rewards",
+            "homepage": null,
             "id": 1082309459,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-06T07:53:58Z",
+            "open_issues": 0,
             "owner": "thanhdath",
             "repo": "finer-sql",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -484,12 +666,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents",
+            "homepage": null,
             "id": 1228567294,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T16:38:43Z",
+            "open_issues": 1,
             "owner": "StringNLPLAB",
             "repo": "FlexSQL",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "agent-framework",
+              "agent-skills",
+              "agentic-ai",
+              "snowflake",
+              "spider2",
+              "text-to-sql",
+              "text-to-sql-data-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -500,12 +695,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper \"AV-SQL: Decomposing Complex Text-to-SQL Queries with Agentic Views\" ",
+            "homepage": "https://arxiv.org/abs/2604.07041",
             "id": 1190328062,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-03T05:45:40Z",
+            "open_issues": 0,
             "owner": "pminhtam",
             "repo": "AV-SQL",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "bird",
+              "kaggledbqa",
+              "llms",
+              "multi-agent",
+              "multi-agent-systems",
+              "spider",
+              "spider2",
+              "spider2-snow",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -516,12 +726,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and data for the paper \"DBCᴏᴘɪʟᴏᴛ: Natural Language Querying over Massive Database via Schema Routing\" (EDBT 2025)",
+            "homepage": null,
             "id": 660099519,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-25T08:54:57Z",
+            "open_issues": 4,
             "owner": "tshu-w",
             "repo": "DBCopilot",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "database",
+              "llm",
+              "schema-routing",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -532,12 +752,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL",
+            "homepage": "https://arxiv.org/abs/2312.11242",
             "id": 733015849,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-27T04:02:02Z",
+            "open_issues": 5,
             "owner": "wbbeyourself",
             "repo": "MAC-SQL",
-            "stars": 346
+            "stars": 346,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -548,12 +773,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS'25] Official Repository for the Paper \"SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning\"",
+            "homepage": "https://dataarctech.github.io/SQL-R1/",
             "id": 981865038,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-20T15:04:13Z",
+            "open_issues": 4,
             "owner": "DataArcTech",
             "repo": "SQL-R1",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "database",
+              "nl2sql",
+              "reasoning",
+              "reinforcement-learning",
+              "text2sql"
+            ]
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -564,12 +800,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1086563121,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-12T12:15:32Z",
+            "open_issues": 4,
             "owner": "YangHaolin0526",
             "repo": "MARS-SQL",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -580,12 +821,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQL-o1: A Self-Reward Heuristic Dynamic Search Method for Text-to-SQL",
+            "homepage": "https://arxiv.org/abs/2502.11741",
             "id": 933958339,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-27T14:29:41Z",
+            "open_issues": 3,
             "owner": "ShuaiLyu0110",
             "repo": "SQL-o1",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "heuristic-dynamic-search",
+              "mcts-algorithm",
+              "self-rewarding",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -596,12 +847,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A efficient and effective few-shot NL2SQL method on GPT-4.",
+            "homepage": null,
             "id": 684399912,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-07T03:42:22Z",
+            "open_issues": 11,
             "owner": "BeachWang",
             "repo": "DAIL-SQL",
-            "stars": 640
+            "stars": 640,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -612,12 +868,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RSL-SQL: Robust Schema Linking in Text-to-SQL Generation",
+            "homepage": "https://arxiv.org/abs/2411.00073",
             "id": 880349270,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T03:09:23Z",
+            "open_issues": 0,
             "owner": "Laqcce-cao",
             "repo": "RSL-SQL",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "text-to-sql",
+              "text2sql"
+            ]
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -628,12 +892,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2023] Code for the paper \"Binding Language Models in Symbolic Languages\"",
+            "homepage": null,
             "id": 547117825,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-25T14:59:44Z",
+            "open_issues": 3,
             "owner": "xlang-ai",
             "repo": "Binder",
-            "stars": 325
+            "stars": 325,
+            "topics": [
+              "fact-verification",
+              "in-context-learning",
+              "language-binding",
+              "language-model",
+              "large-language-models",
+              "natural-language-processing",
+              "openai",
+              "prompt-learning",
+              "question-answering",
+              "structured-knowledge-grounding",
+              "symbolic-language"
+            ]
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -644,12 +925,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Pytorch implementation of RESDSQL (AAAI 2023).",
+            "homepage": "https://arxiv.org/abs/2302.05965",
             "id": 600767872,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-13T02:45:33Z",
+            "open_issues": 14,
             "owner": "RUCKBReasoning",
             "repo": "RESDSQL",
-            "stars": 281
+            "stars": 281,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -660,12 +946,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "open-source agentic AI data assistant for the next generation of AI + Data products.",
+            "homepage": "http://docs.dbgpt.cn",
             "id": 627480054,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:46:48Z",
+            "open_issues": 422,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19821
+            "stars": 19821,
+            "topics": [
+              "agents",
+              "bgi",
+              "database",
+              "deepseek",
+              "gpt",
+              "gpt-4",
+              "hacktoberfest",
+              "llm",
+              "private",
+              "rag",
+              "security",
+              "vicuna"
+            ]
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -676,12 +980,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The prediction results of ChatGPT on various datasets of Text-to-SQL.",
+            "homepage": "https://arxiv.org/pdf/2303.13547.pdf",
             "id": 612797794,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-14T01:07:03Z",
+            "open_issues": 3,
             "owner": "THU-BPM",
             "repo": "chatgpt-sql",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -692,12 +1001,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DAMO-ConvAI: The official repository which contains the codebase for Alibaba DAMO Conversational AI.",
+            "homepage": null,
             "id": 514217147,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-10T11:18:20Z",
+            "open_issues": 79,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1580
+            "stars": 1580,
+            "topics": [
+              "conversational-ai",
+              "deep-learning",
+              "dialog",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         }
@@ -714,12 +1033,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1066930770,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-12T04:20:29Z",
+            "open_issues": 1,
             "owner": "renhouxing",
             "repo": "SpreadsheetAgent",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -730,12 +1054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1052616930,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-24T03:01:01Z",
+            "open_issues": 2,
             "owner": "microsoft",
             "repo": "SheetBrain",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         }
@@ -752,12 +1081,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exploring the Heterogeneity of Tabular Data: A Diversity-aware Data Generator via LLMs",
+            "homepage": "https://ieee-dataport.org/documents/heterogeneous-data-augmentation-benchmark",
             "id": 1099640051,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-01T09:47:12Z",
+            "open_issues": 0,
             "owner": "windblow32",
             "repo": "DATE",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "data-generation",
+              "data-preparation",
+              "heterogenous-data",
+              "large-language-models"
+            ]
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -768,12 +1107,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and Data for the finding of ACL 2025: \"TableDreamer: Progressive and Weakness-guided Data Synthesis from Scratch for Table Instruction Tuning\"",
+            "homepage": null,
             "id": 950423815,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-07-02T13:56:37Z",
+            "open_issues": 0,
             "owner": "SpursGoZmy",
             "repo": "TableDreamer",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -784,12 +1128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes and Datasets for the Paper: Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction",
+            "homepage": null,
             "id": 790124686,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-05T18:37:50Z",
+            "open_issues": 1,
             "owner": "HKUST-KnowComp",
             "repo": "LiveSum",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         }
@@ -806,12 +1155,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Story",
+            "homepage": "https://data2story.github.io/",
             "id": 1247622731,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-05T13:40:54Z",
+            "open_issues": 1,
             "owner": "QinghongLin",
             "repo": "data2story-skill",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "agent-skills",
+              "data-journalists",
+              "data-science"
+            ]
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -822,12 +1180,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://arxiv.org/abs/2606.05404",
+            "homepage": null,
             "id": 1258554705,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-07T05:03:21Z",
+            "open_issues": 0,
             "owner": "iDEA-iSAIL-Lab-UIUC",
             "repo": "TimeClaw",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -838,12 +1201,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1212792181,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-09T13:59:38Z",
+            "open_issues": 0,
             "owner": "UBC-NLP",
             "repo": "MoCA-Agent",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         }
@@ -860,12 +1228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1254117045,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-03T16:31:39Z",
+            "open_issues": 0,
             "owner": "usail-hkust",
             "repo": "EvoDS",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -876,12 +1249,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR/AAAI/KDD/EMNLP2026] Open-Source LLM-Based Data Analysis Agents",
+            "homepage": "https://zjunlp.github.io/DataMind/",
             "id": 987637200,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-25T14:54:52Z",
+            "open_issues": 0,
             "owner": "zjunlp",
             "repo": "DataMind",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "agent",
+              "artificial-intelligence",
+              "data-analysis",
+              "data-science",
+              "datamind",
+              "dataprm",
+              "large-language-models",
+              "longds-bench",
+              "natural-language-processing",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -892,12 +1281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MLEvolve is an open-source autonomous system for end-to-end machine learning algorithm design and optimization powered by progressive search and experience-driven memory.",
+            "homepage": "https://internscience.github.io/MLEvolve/",
             "id": 1157953649,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-14T04:54:29Z",
+            "open_issues": 1,
             "owner": "InternScience",
             "repo": "MLEvolve",
-            "stars": 428
+            "stars": 428,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         }
@@ -914,12 +1308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML 2026] AdaMEM: Test-Time Adaptive Memory for Language Agents",
+            "homepage": "https://yunx-z.github.io/AdaMEM/",
             "id": 1250855509,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-22T00:49:02Z",
+            "open_issues": 0,
             "owner": "yunx-z",
             "repo": "AdaMEM",
-            "stars": 8
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -930,12 +1329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HeLa-Mem code for LongMemEval",
+            "homepage": null,
             "id": 1203835467,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-31T02:13:44Z",
+            "open_issues": 0,
             "owner": "ReinerBRO",
             "repo": "HeLa-Mem",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -946,12 +1350,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Paper List of Agent Memory Systems along Four Axes",
+            "homepage": "https://arxiv.org/abs/2606.24775",
             "id": 1277684919,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-22T11:30:59Z",
+            "open_issues": 4,
             "owner": "OpenDataBox",
             "repo": "awesome-agent-memory",
-            "stars": 55
+            "stars": 56,
+            "topics": [
+              "agent",
+              "llm",
+              "memory"
+            ]
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -962,12 +1375,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1241973776,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-03T14:42:16Z",
+            "open_issues": 2,
             "owner": "DSAIL-Memory",
             "repo": "EvoMemBench",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         }
@@ -984,12 +1402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimize prompts, code, and more with AI-powered Reflective Optimization",
+            "homepage": "https://gepa-ai.github.io/gepa/",
             "id": 1032419366,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-26T23:31:18Z",
+            "open_issues": 119,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 6277
+            "stars": 6278,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -1000,12 +1423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The public repository of ICML 2026 \"SafeHarbor: Defining Precise Decision Boundaries via Hierarchical Memory-Augmented Guardrail for LLM Agent Safety\"\"",
+            "homepage": null,
             "id": 1229631352,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-06T08:11:48Z",
+            "open_issues": 1,
             "owner": "ljj-cyber",
             "repo": "SafeHarbor",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -1016,12 +1444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 928713856,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-11-30T17:59:09Z",
+            "open_issues": 0,
             "owner": "tmllab",
             "repo": "2025_ICLR_FLOW",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -1032,12 +1465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TAG-Bench: A benchmark for table-augmented generation (TAG)",
+            "homepage": "https://arxiv.org/pdf/2408.14717",
             "id": 847546926,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-25T20:13:10Z",
+            "open_issues": 4,
             "owner": "TAG-Research",
             "repo": "TAG-Bench",
-            "stars": 766
+            "stars": 766,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         },
@@ -1048,12 +1486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "official code for \"Large Language Models as Optimizers\"",
+            "homepage": "https://arxiv.org/abs/2309.03409",
             "id": 699169039,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-04T21:04:50Z",
+            "open_issues": 6,
             "owner": "google-deepmind",
             "repo": "opro",
-            "stars": 774
+            "stars": 774,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
         }
@@ -1072,12 +1515,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
+                "homepage": "https://arxiv.org/abs/2408.05109",
                 "id": 803643412,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-28T08:54:04Z",
+                "open_issues": 0,
                 "owner": "HKUSTDial",
                 "repo": "NL2SQL_Handbook",
-                "stars": 1578
+                "stars": 1578,
+                "topics": [
+                  "ai4db",
+                  "awesome",
+                  "awesome-agents",
+                  "awesome-nl2sql",
+                  "awesome-text-to-sql",
+                  "awesome-text2sql",
+                  "db",
+                  "llms",
+                  "nl-to-code",
+                  "nl-to-sql",
+                  "nl2sql",
+                  "nlp",
+                  "text-to-code",
+                  "text-to-sql",
+                  "text2sql"
+                ]
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -1088,12 +1552,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "We collect papers about \"large language models (LLM) for table-related tasks\", e.g., using LLM for Table QA task. “表格+LLM”相关论文整理",
+                "homepage": null,
                 "id": 659646465,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-09T09:31:42Z",
+                "open_issues": 7,
                 "owner": "SpursGoZmy",
                 "repo": "Awesome-Tabular-LLMs",
-                "stars": 634
+                "stars": 634,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             },
@@ -1104,12 +1573,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Papers about training data quality management for ML models.",
+                "homepage": null,
                 "id": 767484103,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-13T14:56:58Z",
+                "open_issues": 0,
                 "owner": "SJTU-DMTai",
                 "repo": "awesome-ml-data-quality-papers",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "ai4db",
+                  "data-centric-ai",
+                  "data-debugging",
+                  "data-management",
+                  "data-profiling",
+                  "data-quality",
+                  "data-valuation",
+                  "db4ai",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
             }
@@ -1123,15 +1607,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:34:28.572Z",
+    "last_updated": "2026-08-29T05:04:33.535Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data analysis, data science & AutoML agents, database operations, agent memory, and benchmarks.",
+      "homepage": null,
       "id": 1076590171,
       "language": "Python",
+      "license": null,
       "last_commit": "2026-07-31T07:49:09Z",
+      "open_issues": 3,
       "owner": "SJTU-DMTai",
       "repo": "Awesome-Data-Agent-Papers",
-      "stars": 53
+      "stars": 53,
+      "topics": [
+        "agent-memory",
+        "awesome",
+        "awesome-list",
+        "data-agent",
+        "data-analysis",
+        "data-science",
+        "large-language-models",
+        "llm",
+        "llm-agent",
+        "nl2sql",
+        "paper-list",
+        "reading-list",
+        "table-reasoning",
+        "text-to-sql"
+      ]
     },
     "original_repository_sha": "c9c55cbafc0c46d11e6e9e8caecf0e43306e404f",
     "enhanced_repository": "enhansome/enhansome-Awesome-Data-Agent-Papers",
