@@ -17,8 +17,9 @@
                 "last_commit": "2026-05-19T18:01:19Z",
                 "owner": "fannie1208",
                 "repo": "DSGym",
-                "stars": 60
-              }
+                "stars": 61
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-19T19:36:37Z",
                 "owner": "ucbepic",
                 "repo": "DataAgentBench",
-                "stars": 149
-              }
+                "stars": 150
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "ByteDance-Seed",
                 "repo": "DAComp",
                 "stars": 438
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "Cqkkkkkk",
                 "repo": "PredictiQ",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "ServiceNow",
                 "repo": "insight-bench",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "fdabench",
                 "repo": "FDAbench",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "LiqiangJing",
                 "repo": "DSBench",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "THUDM",
                 "repo": "DataSciBench",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "InfiAgent",
                 "repo": "InfiAgent",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "MetaCopilot",
                 "repo": "dseval",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "uiuc-kang-lab",
                 "repo": "text_to_sql_benchmarks",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             }
           ],
           "description": null,
@@ -190,7 +201,8 @@
                 "owner": "jpeper",
                 "repo": "MDBench",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "IBM",
                 "repo": "unitxt",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "MMTU-Benchmark",
                 "repo": "MMTU",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "xlang-ai",
                 "repo": "Spider2",
                 "stars": 861
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "TableBench",
                 "repo": "TableBench",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "Relaxed-System-Lab",
                 "repo": "TQA-Bench",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "RUCKBReasoning",
                 "repo": "SpreadsheetBench",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "czyssrs",
                 "repo": "FinQA",
                 "stars": 387
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "Yale-LILY",
                 "repo": "FeTaQA",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "microsoft",
                 "repo": "HiTab",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             }
           ],
           "description": null,
@@ -351,7 +372,8 @@
             "owner": "li-jiayu-ljy",
             "repo": "irg",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -365,8 +387,9 @@
             "last_commit": "2025-06-02T23:13:03Z",
             "owner": "MinkaiXu",
             "repo": "TabDiff",
-            "stars": 150
-          }
+            "stars": 151
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -381,7 +404,8 @@
             "owner": "RUCKBReasoning",
             "repo": "TableLLM",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         }
       ],
       "title": "🧹 Data Preparation & Integration"
@@ -402,7 +426,8 @@
             "owner": "Tencent",
             "repo": "APEX-SQL-Project",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -417,7 +442,8 @@
             "owner": "Satissss",
             "repo": "SquRL",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -432,7 +458,8 @@
             "owner": "Leolty",
             "repo": "Spider2-AIFunc",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -447,7 +474,8 @@
             "owner": "thanhdath",
             "repo": "finer-sql",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -462,7 +490,8 @@
             "owner": "StringNLPLAB",
             "repo": "FlexSQL",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -477,7 +506,8 @@
             "owner": "pminhtam",
             "repo": "AV-SQL",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -492,7 +522,8 @@
             "owner": "tshu-w",
             "repo": "DBCopilot",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -507,7 +538,8 @@
             "owner": "wbbeyourself",
             "repo": "MAC-SQL",
             "stars": 346
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -522,7 +554,8 @@
             "owner": "DataArcTech",
             "repo": "SQL-R1",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -536,8 +569,9 @@
             "last_commit": "2026-08-12T12:15:32Z",
             "owner": "YangHaolin0526",
             "repo": "MARS-SQL",
-            "stars": 49
-          }
+            "stars": 50
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -552,7 +586,8 @@
             "owner": "ShuaiLyu0110",
             "repo": "SQL-o1",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -567,7 +602,8 @@
             "owner": "BeachWang",
             "repo": "DAIL-SQL",
             "stars": 640
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -582,7 +618,8 @@
             "owner": "Laqcce-cao",
             "repo": "RSL-SQL",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -597,7 +634,8 @@
             "owner": "xlang-ai",
             "repo": "Binder",
             "stars": 325
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -612,7 +650,8 @@
             "owner": "RUCKBReasoning",
             "repo": "RESDSQL",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -623,11 +662,12 @@
             "archived": false,
             "id": 627480054,
             "language": "Python",
-            "last_commit": "2026-08-26T11:10:31Z",
+            "last_commit": "2026-08-28T10:46:48Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19811
-          }
+            "stars": 19821
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -642,7 +682,8 @@
             "owner": "THU-BPM",
             "repo": "chatgpt-sql",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -657,7 +698,8 @@
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
             "stars": 1580
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         }
       ],
       "title": "💬 NL2SQL (Text-to-SQL)"
@@ -678,7 +720,8 @@
             "owner": "renhouxing",
             "repo": "SpreadsheetAgent",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -693,7 +736,8 @@
             "owner": "microsoft",
             "repo": "SheetBrain",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         }
       ],
       "title": "📋 Table Understanding & Reasoning"
@@ -714,7 +758,8 @@
             "owner": "windblow32",
             "repo": "DATE",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -729,7 +774,8 @@
             "owner": "SpursGoZmy",
             "repo": "TableDreamer",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -744,7 +790,8 @@
             "owner": "HKUST-KnowComp",
             "repo": "LiveSum",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         }
       ],
       "title": "🧱 Table Generation, Curation & Synthesis"
@@ -765,7 +812,8 @@
             "owner": "QinghongLin",
             "repo": "data2story-skill",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -780,7 +828,8 @@
             "owner": "iDEA-iSAIL-Lab-UIUC",
             "repo": "TimeClaw",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -795,7 +844,8 @@
             "owner": "UBC-NLP",
             "repo": "MoCA-Agent",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         }
       ],
       "title": "📊 Data Analysis & Insight Discovery"
@@ -816,7 +866,8 @@
             "owner": "usail-hkust",
             "repo": "EvoDS",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -831,7 +882,8 @@
             "owner": "zjunlp",
             "repo": "DataMind",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -845,8 +897,9 @@
             "last_commit": "2026-07-14T04:54:29Z",
             "owner": "InternScience",
             "repo": "MLEvolve",
-            "stars": 427
-          }
+            "stars": 428
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         }
       ],
       "title": "🔬 Data Science & Machine Learning Agents"
@@ -867,7 +920,8 @@
             "owner": "yunx-z",
             "repo": "AdaMEM",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -882,7 +936,8 @@
             "owner": "ReinerBRO",
             "repo": "HeLa-Mem",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -897,7 +952,8 @@
             "owner": "OpenDataBox",
             "repo": "awesome-agent-memory",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -911,8 +967,9 @@
             "last_commit": "2026-07-03T14:42:16Z",
             "owner": "DSAIL-Memory",
             "repo": "EvoMemBench",
-            "stars": 11
-          }
+            "stars": 12
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         }
       ],
       "title": "🧠 Agent Memory & Context Engineering"
@@ -932,8 +989,9 @@
             "last_commit": "2026-08-26T23:31:18Z",
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 6265
-          }
+            "stars": 6277
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -948,7 +1006,8 @@
             "owner": "ljj-cyber",
             "repo": "SafeHarbor",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -963,7 +1022,8 @@
             "owner": "tmllab",
             "repo": "2025_ICLR_FLOW",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -978,7 +1038,8 @@
             "owner": "TAG-Research",
             "repo": "TAG-Bench",
             "stars": 766
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         },
         {
           "node_type": "item",
@@ -993,7 +1054,8 @@
             "owner": "google-deepmind",
             "repo": "opro",
             "stars": 774
-          }
+          },
+          "first_seen": "2026-08-29T00:34:28.572Z"
         }
       ],
       "title": "🧩 General Agent Techniques"
@@ -1015,8 +1077,9 @@
                 "last_commit": "2026-07-28T08:54:04Z",
                 "owner": "HKUSTDial",
                 "repo": "NL2SQL_Handbook",
-                "stars": 1577
-              }
+                "stars": 1578
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -1031,7 +1094,8 @@
                 "owner": "SpursGoZmy",
                 "repo": "Awesome-Tabular-LLMs",
                 "stars": 634
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             },
             {
               "node_type": "item",
@@ -1046,7 +1110,8 @@
                 "owner": "SJTU-DMTai",
                 "repo": "awesome-ml-data-quality-papers",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-29T00:34:28.572Z"
             }
           ],
           "description": null,
@@ -1058,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:57:36.965Z",
+    "last_updated": "2026-08-29T00:34:28.572Z",
     "original_repository_info": {
       "archived": false,
       "id": 1076590171,
