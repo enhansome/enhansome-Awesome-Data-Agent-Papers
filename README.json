@@ -38,8 +38,8 @@
                 "id": 1005072875,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-19T19:36:37Z",
-                "open_issues": 10,
+                "last_commit": "2026-08-30T18:40:51Z",
+                "open_issues": 11,
                 "owner": "ucbepic",
                 "repo": "DataAgentBench",
                 "stars": 150,
@@ -423,7 +423,7 @@
                 "open_issues": 28,
                 "owner": "RUCKBReasoning",
                 "repo": "SpreadsheetBench",
-                "stars": 197,
+                "stars": 198,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -952,10 +952,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-28T10:46:48Z",
-            "open_issues": 422,
+            "open_issues": 424,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19824,
+            "stars": 19825,
             "topics": [
               "agents",
               "bgi",
@@ -1254,7 +1254,7 @@
             "id": 987637200,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-25T14:54:52Z",
+            "last_commit": "2026-08-30T07:14:29Z",
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "DataMind",
@@ -1407,11 +1407,11 @@
             "id": 1032419366,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-08-26T23:31:18Z",
-            "open_issues": 119,
+            "last_commit": "2026-08-30T01:24:15Z",
+            "open_issues": 117,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 6286,
+            "stars": 6298,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1524,7 +1524,7 @@
                 "open_issues": 0,
                 "owner": "HKUSTDial",
                 "repo": "NL2SQL_Handbook",
-                "stars": 1578,
+                "stars": 1579,
                 "topics": [
                   "ai4db",
                   "awesome",
@@ -1607,7 +1607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:25:03.979Z",
+    "last_updated": "2026-08-30T19:20:02.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data analysis, data science & AutoML agents, database operations, agent memory, and benchmarks.",
