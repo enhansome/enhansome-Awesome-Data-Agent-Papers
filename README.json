@@ -39,10 +39,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-07T18:34:17Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "ucbepic",
                 "repo": "DataAgentBench",
-                "stars": 157,
+                "stars": 159,
                 "topics": [
                   "agents",
                   "data-agents",
@@ -357,7 +357,7 @@
                 "open_issues": 124,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 866,
+                "stars": 867,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -539,7 +539,7 @@
             "open_issues": 9,
             "owner": "MinkaiXu",
             "repo": "TabDiff",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -587,7 +587,7 @@
             "open_issues": 0,
             "owner": "Tencent",
             "repo": "APEX-SQL-Project",
-            "stars": 19,
+            "stars": 18,
             "topics": [
               "ai",
               "ai-agents",
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "thanhdath",
             "repo": "finer-sql",
-            "stars": 16,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -761,7 +761,7 @@
             "open_issues": 5,
             "owner": "wbbeyourself",
             "repo": "MAC-SQL",
-            "stars": 348,
+            "stars": 349,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -952,10 +952,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-08T09:23:37Z",
-            "open_issues": 431,
+            "open_issues": 432,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19908,
+            "stars": 19917,
             "topics": [
               "agents",
               "bgi",
@@ -1255,10 +1255,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-06T13:02:27Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "zjunlp",
             "repo": "DataMind",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "agent",
               "artificial-intelligence",
@@ -1338,7 +1338,7 @@
             "open_issues": 0,
             "owner": "ReinerBRO",
             "repo": "HeLa-Mem",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1411,7 +1411,7 @@
             "open_issues": 123,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 6476,
+            "stars": 6493,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1607,7 +1607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:26:48.782Z",
+    "last_updated": "2026-09-09T19:17:59.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data analysis, data science & AutoML agents, database operations, agent memory, and benchmarks.",
