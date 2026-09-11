@@ -38,8 +38,8 @@
                 "id": 1005072875,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-07T18:34:17Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-11T18:17:28Z",
+                "open_issues": 11,
                 "owner": "ucbepic",
                 "repo": "DataAgentBench",
                 "stars": 159,
@@ -254,7 +254,7 @@
                 "open_issues": 5,
                 "owner": "uiuc-kang-lab",
                 "repo": "text_to_sql_benchmarks",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -300,7 +300,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-27T12:07:13Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "IBM",
                 "repo": "unitxt",
                 "stars": 217,
@@ -354,7 +354,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
-                "open_issues": 124,
+                "open_issues": 125,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
                 "stars": 868,
@@ -761,7 +761,7 @@
             "open_issues": 5,
             "owner": "wbbeyourself",
             "repo": "MAC-SQL",
-            "stars": 349,
+            "stars": 350,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -934,7 +934,7 @@
             "open_issues": 14,
             "owner": "RUCKBReasoning",
             "repo": "RESDSQL",
-            "stars": 281,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -952,10 +952,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-08T09:23:37Z",
-            "open_issues": 435,
+            "open_issues": 436,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19925,
+            "stars": 19932,
             "topics": [
               "agents",
               "bgi",
@@ -1290,7 +1290,7 @@
             "open_issues": 1,
             "owner": "InternScience",
             "repo": "MLEvolve",
-            "stars": 435,
+            "stars": 436,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1407,11 +1407,11 @@
             "id": 1032419366,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-08T02:23:23Z",
+            "last_commit": "2026-09-11T06:04:59Z",
             "open_issues": 123,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 6511,
+            "stars": 6522,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1524,7 +1524,7 @@
                 "open_issues": 0,
                 "owner": "HKUSTDial",
                 "repo": "NL2SQL_Handbook",
-                "stars": 1587,
+                "stars": 1589,
                 "topics": [
                   "ai4db",
                   "awesome",
@@ -1607,7 +1607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:07:56.109Z",
+    "last_updated": "2026-09-11T19:10:03.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data analysis, data science & AutoML agents, database operations, agent memory, and benchmarks.",
