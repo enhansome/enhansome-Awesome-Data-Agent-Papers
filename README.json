@@ -38,11 +38,11 @@
                 "id": 1005072875,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-13T18:47:03Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-15T07:07:38Z",
+                "open_issues": 14,
                 "owner": "ucbepic",
                 "repo": "DataAgentBench",
-                "stars": 163,
+                "stars": 165,
                 "topics": [
                   "agents",
                   "data-agents",
@@ -303,7 +303,7 @@
                 "open_issues": 39,
                 "owner": "IBM",
                 "repo": "unitxt",
-                "stars": 217,
+                "stars": 216,
                 "topics": [
                   "ai",
                   "data",
@@ -378,7 +378,7 @@
                 "open_issues": 0,
                 "owner": "TableBench",
                 "repo": "TableBench",
-                "stars": 93,
+                "stars": 94,
                 "topics": [
                   "llm",
                   "tableqa"
@@ -423,7 +423,7 @@
                 "open_issues": 28,
                 "owner": "RUCKBReasoning",
                 "repo": "SpreadsheetBench",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -951,11 +951,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T05:49:30Z",
-            "open_issues": 437,
+            "last_commit": "2026-09-15T15:21:03Z",
+            "open_issues": 439,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19955,
+            "stars": 19969,
             "topics": [
               "agents",
               "bgi",
@@ -1006,11 +1006,11 @@
             "id": 514217147,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-06-10T11:18:20Z",
+            "last_commit": "2026-09-15T07:18:45Z",
             "open_issues": 80,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1595,
+            "stars": 1596,
             "topics": [
               "conversational-ai",
               "deep-learning",
@@ -1290,7 +1290,7 @@
             "open_issues": 1,
             "owner": "InternScience",
             "repo": "MLEvolve",
-            "stars": 438,
+            "stars": 439,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1408,10 +1408,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-09-11T06:04:59Z",
-            "open_issues": 124,
+            "open_issues": 125,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 6569,
+            "stars": 6587,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1495,7 +1495,7 @@
             "open_issues": 6,
             "owner": "google-deepmind",
             "repo": "opro",
-            "stars": 775,
+            "stars": 777,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1607,7 +1607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:18:56.980Z",
+    "last_updated": "2026-09-15T19:42:33.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data analysis, data science & AutoML agents, database operations, agent memory, and benchmarks.",
@@ -1619,7 +1619,7 @@
       "open_issues": 4,
       "owner": "SJTU-DMTai",
       "repo": "Awesome-Data-Agent-Papers",
-      "stars": 56,
+      "stars": 57,
       "topics": [
         "agent-memory",
         "awesome",
