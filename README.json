@@ -109,7 +109,7 @@
                 "open_issues": 10,
                 "owner": "ServiceNow",
                 "repo": "insight-bench",
-                "stars": 74,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -357,7 +357,7 @@
                 "open_issues": 137,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 874,
+                "stars": 875,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -675,7 +675,7 @@
             "open_issues": 1,
             "owner": "StringNLPLAB",
             "repo": "FlexSQL",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "agent-framework",
               "agent-skills",
@@ -856,7 +856,7 @@
             "open_issues": 11,
             "owner": "BeachWang",
             "repo": "DAIL-SQL",
-            "stars": 642,
+            "stars": 643,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -951,11 +951,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T10:11:42Z",
-            "open_issues": 446,
+            "last_commit": "2026-09-29T08:39:22Z",
+            "open_issues": 450,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20059,
+            "stars": 20067,
             "topics": [
               "agents",
               "bgi",
@@ -1254,11 +1254,11 @@
             "id": 987637200,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-13T13:42:06Z",
+            "last_commit": "2026-09-29T14:14:04Z",
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "DataMind",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "agent",
               "artificial-intelligence",
@@ -1356,7 +1356,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-22T11:30:59Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "OpenDataBox",
             "repo": "awesome-agent-memory",
             "stars": 58,
@@ -1407,11 +1407,11 @@
             "id": 1032419366,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-28T05:35:41Z",
-            "open_issues": 128,
+            "last_commit": "2026-09-29T18:27:44Z",
+            "open_issues": 136,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 6783,
+            "stars": 6804,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1474,7 +1474,7 @@
             "open_issues": 4,
             "owner": "TAG-Research",
             "repo": "TAG-Bench",
-            "stars": 766,
+            "stars": 765,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1524,7 +1524,7 @@
                 "open_issues": 0,
                 "owner": "HKUSTDial",
                 "repo": "NL2SQL_Handbook",
-                "stars": 1602,
+                "stars": 1606,
                 "topics": [
                   "ai4db",
                   "awesome",
@@ -1607,7 +1607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:03:50.941Z",
+    "last_updated": "2026-09-29T20:50:08.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data analysis, data science & AutoML agents, database operations, agent memory, and benchmarks.",
