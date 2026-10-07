@@ -444,7 +444,7 @@
                 "open_issues": 7,
                 "owner": "czyssrs",
                 "repo": "FinQA",
-                "stars": 399,
+                "stars": 400,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -486,7 +486,7 @@
                 "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "HiTab",
-                "stars": 110,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -560,7 +560,7 @@
             "open_issues": 4,
             "owner": "RUCKBReasoning",
             "repo": "TableLLM",
-            "stars": 254,
+            "stars": 253,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -587,7 +587,7 @@
             "open_issues": 0,
             "owner": "Tencent",
             "repo": "APEX-SQL-Project",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "ai",
               "ai-agents",
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "thanhdath",
             "repo": "finer-sql",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -666,7 +666,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents",
+            "description": "FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents (COLM 2026)",
             "homepage": null,
             "id": 1228567294,
             "language": "Python",
@@ -952,10 +952,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-04T13:43:25Z",
-            "open_issues": 449,
+            "open_issues": 450,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20079,
+            "stars": 20080,
             "topics": [
               "agents",
               "bgi",
@@ -1411,7 +1411,7 @@
             "open_issues": 135,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 6887,
+            "stars": 6900,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1524,7 +1524,7 @@
                 "open_issues": 0,
                 "owner": "HKUSTDial",
                 "repo": "NL2SQL_Handbook",
-                "stars": 1609,
+                "stars": 1608,
                 "topics": [
                   "ai4db",
                   "awesome",
@@ -1561,7 +1561,7 @@
                 "open_issues": 7,
                 "owner": "SpursGoZmy",
                 "repo": "Awesome-Tabular-LLMs",
-                "stars": 636,
+                "stars": 637,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1607,7 +1607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:00:14.128Z",
+    "last_updated": "2026-10-07T21:19:32.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data analysis, data science & AutoML agents, database operations, agent memory, and benchmarks.",
