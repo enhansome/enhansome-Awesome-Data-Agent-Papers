@@ -42,7 +42,7 @@
                 "open_issues": 23,
                 "owner": "ucbepic",
                 "repo": "DataAgentBench",
-                "stars": 184,
+                "stars": 186,
                 "topics": [
                   "agents",
                   "data-agents",
@@ -809,7 +809,7 @@
             "open_issues": 4,
             "owner": "YangHaolin0526",
             "repo": "MARS-SQL",
-            "stars": 49,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -955,7 +955,7 @@
             "open_issues": 458,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20148,
+            "stars": 20156,
             "topics": [
               "agents",
               "bgi",
@@ -1286,11 +1286,11 @@
             "id": 1157953649,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T07:49:13Z",
+            "last_commit": "2026-10-16T03:03:46Z",
             "open_issues": 1,
             "owner": "InternScience",
             "repo": "MLEvolve",
-            "stars": 453,
+            "stars": 454,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1411,7 +1411,7 @@
             "open_issues": 142,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 7006,
+            "stars": 7016,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1607,7 +1607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:54:27.750Z",
+    "last_updated": "2026-10-16T19:34:17.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data analysis, data science & AutoML agents, database operations, agent memory, and benchmarks.",
