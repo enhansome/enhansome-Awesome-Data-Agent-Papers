@@ -357,7 +357,7 @@
                 "open_issues": 139,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 882,
+                "stars": 883,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -444,7 +444,7 @@
                 "open_issues": 7,
                 "owner": "czyssrs",
                 "repo": "FinQA",
-                "stars": 403,
+                "stars": 404,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -486,7 +486,7 @@
                 "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "HiTab",
-                "stars": 111,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -539,7 +539,7 @@
             "open_issues": 9,
             "owner": "MinkaiXu",
             "repo": "TabDiff",
-            "stars": 157,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -951,11 +951,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T04:32:34Z",
-            "open_issues": 457,
+            "last_commit": "2026-10-22T16:30:17Z",
+            "open_issues": 458,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20176,
+            "stars": 20178,
             "topics": [
               "agents",
               "bgi",
@@ -1007,10 +1007,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-19T07:53:20Z",
-            "open_issues": 83,
+            "open_issues": 84,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1611,
+            "stars": 1613,
             "topics": [
               "conversational-ai",
               "deep-learning",
@@ -1290,7 +1290,7 @@
             "open_issues": 1,
             "owner": "InternScience",
             "repo": "MLEvolve",
-            "stars": 456,
+            "stars": 457,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1408,10 +1408,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-10-21T06:24:48Z",
-            "open_issues": 136,
+            "open_issues": 137,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 7089,
+            "stars": 7099,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1524,7 +1524,7 @@
                 "open_issues": 0,
                 "owner": "HKUSTDial",
                 "repo": "NL2SQL_Handbook",
-                "stars": 1618,
+                "stars": 1619,
                 "topics": [
                   "ai4db",
                   "awesome",
@@ -1607,7 +1607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:11:32.514Z",
+    "last_updated": "2026-10-22T20:09:34.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data analysis, data science & AutoML agents, database operations, agent memory, and benchmarks.",
