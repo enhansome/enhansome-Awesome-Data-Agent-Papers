@@ -39,10 +39,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-11-02T21:23:06Z",
-                "open_issues": 25,
+                "open_issues": 27,
                 "owner": "ucbepic",
                 "repo": "DataAgentBench",
-                "stars": 195,
+                "stars": 197,
                 "topics": [
                   "agents",
                   "data-agents",
@@ -67,7 +67,7 @@
                 "open_issues": 9,
                 "owner": "ByteDance-Seed",
                 "repo": "DAComp",
-                "stars": 441,
+                "stars": 438,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -109,7 +109,7 @@
                 "open_issues": 10,
                 "owner": "ServiceNow",
                 "repo": "insight-bench",
-                "stars": 76,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -300,7 +300,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-02T12:36:50Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "IBM",
                 "repo": "unitxt",
                 "stars": 215,
@@ -486,7 +486,7 @@
                 "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "HiTab",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -951,11 +951,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T08:32:56Z",
-            "open_issues": 498,
+            "last_commit": "2026-11-03T15:44:25Z",
+            "open_issues": 499,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20245,
+            "stars": 20250,
             "topics": [
               "agents",
               "bgi",
@@ -1010,7 +1010,7 @@
             "open_issues": 85,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1619,
+            "stars": 1620,
             "topics": [
               "conversational-ai",
               "deep-learning",
@@ -1164,7 +1164,7 @@
             "open_issues": 1,
             "owner": "QinghongLin",
             "repo": "data2story-skill",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "agent-skills",
               "data-journalists",
@@ -1355,8 +1355,8 @@
             "id": 1277684919,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-02T12:46:35Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-03T02:19:01Z",
+            "open_issues": 2,
             "owner": "OpenDataBox",
             "repo": "awesome-agent-memory",
             "stars": 60,
@@ -1380,7 +1380,7 @@
             "id": 1241973776,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-27T12:27:47Z",
+            "last_commit": "2026-11-03T12:55:31Z",
             "open_issues": 1,
             "owner": "DSAIL-Memory",
             "repo": "EvoMemBench",
@@ -1408,10 +1408,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-11-02T12:46:41Z",
-            "open_issues": 148,
+            "open_issues": 149,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 7251,
+            "stars": 7259,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1495,7 +1495,7 @@
             "open_issues": 6,
             "owner": "google-deepmind",
             "repo": "opro",
-            "stars": 787,
+            "stars": 788,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1521,10 +1521,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-31T09:08:41Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "HKUSTDial",
                 "repo": "NL2SQL_Handbook",
-                "stars": 1628,
+                "stars": 1630,
                 "topics": [
                   "ai4db",
                   "awesome",
@@ -1607,7 +1607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:33:55.259Z",
+    "last_updated": "2026-11-03T21:48:22.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data analysis, data science & AutoML agents, database operations, agent memory, and benchmarks.",
