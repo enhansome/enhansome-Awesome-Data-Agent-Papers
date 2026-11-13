@@ -42,7 +42,7 @@
                 "open_issues": 31,
                 "owner": "ucbepic",
                 "repo": "DataAgentBench",
-                "stars": 206,
+                "stars": 207,
                 "topics": [
                   "agents",
                   "data-agents",
@@ -420,7 +420,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-03-12T03:58:22Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "RUCKBReasoning",
                 "repo": "SpreadsheetBench",
                 "stars": 213,
@@ -877,7 +877,7 @@
             "open_issues": 0,
             "owner": "Laqcce-cao",
             "repo": "RSL-SQL",
-            "stars": 162,
+            "stars": 161,
             "topics": [
               "text-to-sql",
               "text2sql"
@@ -951,11 +951,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T05:01:58Z",
-            "open_issues": 516,
+            "last_commit": "2026-11-13T15:55:00Z",
+            "open_issues": 525,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20290,
+            "stars": 20293,
             "topics": [
               "agents",
               "bgi",
@@ -1356,7 +1356,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-03T02:19:01Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "OpenDataBox",
             "repo": "awesome-agent-memory",
             "stars": 62,
@@ -1408,10 +1408,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-11-09T12:46:31Z",
-            "open_issues": 165,
+            "open_issues": 166,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 7412,
+            "stars": 7425,
             "topics": [
               "agent-skills",
               "coding-agent",
@@ -1626,7 +1626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:15:34.719Z",
+    "last_updated": "2026-11-13T21:59:15.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data analysis, data science & AutoML agents, database operations, agent memory, and benchmarks.",
