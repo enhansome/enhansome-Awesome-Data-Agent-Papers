@@ -42,7 +42,7 @@
                 "open_issues": 32,
                 "owner": "ucbepic",
                 "repo": "DataAgentBench",
-                "stars": 207,
+                "stars": 208,
                 "topics": [
                   "agents",
                   "data-agents",
@@ -109,7 +109,7 @@
                 "open_issues": 10,
                 "owner": "ServiceNow",
                 "repo": "insight-bench",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -951,11 +951,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T15:11:27Z",
-            "open_issues": 526,
+            "last_commit": "2026-11-17T15:31:30Z",
+            "open_issues": 524,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20303,
+            "stars": 20304,
             "topics": [
               "agents",
               "bgi",
@@ -1010,7 +1010,7 @@
             "open_issues": 85,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1625,
+            "stars": 1626,
             "topics": [
               "conversational-ai",
               "deep-learning",
@@ -1356,10 +1356,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-15T08:06:18Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "OpenDataBox",
             "repo": "awesome-agent-memory",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "agent",
               "llm",
@@ -1408,10 +1408,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-11-09T12:46:31Z",
-            "open_issues": 166,
+            "open_issues": 167,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 7457,
+            "stars": 7471,
             "topics": [
               "agent-skills",
               "coding-agent",
@@ -1626,7 +1626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:15:22.906Z",
+    "last_updated": "2026-11-17T23:31:33.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data analysis, data science & AutoML agents, database operations, agent memory, and benchmarks.",
