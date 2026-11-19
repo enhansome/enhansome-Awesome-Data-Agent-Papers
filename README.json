@@ -357,7 +357,7 @@
                 "open_issues": 140,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 889,
+                "stars": 890,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -444,7 +444,7 @@
                 "open_issues": 8,
                 "owner": "czyssrs",
                 "repo": "FinQA",
-                "stars": 413,
+                "stars": 412,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -901,7 +901,7 @@
             "open_issues": 3,
             "owner": "xlang-ai",
             "repo": "Binder",
-            "stars": 325,
+            "stars": 324,
             "topics": [
               "fact-verification",
               "in-context-learning",
@@ -951,11 +951,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T05:50:50Z",
-            "open_issues": 524,
+            "last_commit": "2026-11-19T14:49:22Z",
+            "open_issues": 525,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20308,
+            "stars": 20314,
             "topics": [
               "agents",
               "bgi",
@@ -1010,7 +1010,7 @@
             "open_issues": 85,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1627,
+            "stars": 1626,
             "topics": [
               "conversational-ai",
               "deep-learning",
@@ -1290,7 +1290,7 @@
             "open_issues": 1,
             "owner": "InternScience",
             "repo": "MLEvolve",
-            "stars": 472,
+            "stars": 471,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1408,10 +1408,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-11-09T12:46:31Z",
-            "open_issues": 167,
+            "open_issues": 169,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 7488,
+            "stars": 7504,
             "topics": [
               "agent-skills",
               "coding-agent",
@@ -1626,7 +1626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:57:14.401Z",
+    "last_updated": "2026-11-19T23:04:00.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data analysis, data science & AutoML agents, database operations, agent memory, and benchmarks.",
@@ -1638,7 +1638,7 @@
       "open_issues": 10,
       "owner": "SJTU-DMTai",
       "repo": "Awesome-Data-Agent-Papers",
-      "stars": 65,
+      "stars": 66,
       "topics": [
         "agent-memory",
         "awesome",
