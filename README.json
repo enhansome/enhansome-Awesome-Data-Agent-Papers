@@ -42,7 +42,7 @@
                 "open_issues": 34,
                 "owner": "ucbepic",
                 "repo": "DataAgentBench",
-                "stars": 211,
+                "stars": 212,
                 "topics": [
                   "agents",
                   "data-agents",
@@ -877,7 +877,7 @@
             "open_issues": 0,
             "owner": "Laqcce-cao",
             "repo": "RSL-SQL",
-            "stars": 161,
+            "stars": 160,
             "topics": [
               "text-to-sql",
               "text2sql"
@@ -951,11 +951,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-25T02:05:29Z",
-            "open_issues": 540,
+            "last_commit": "2026-11-27T15:38:03Z",
+            "open_issues": 544,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20340,
+            "stars": 20339,
             "topics": [
               "agents",
               "bgi",
@@ -1007,7 +1007,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-19T07:53:20Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
             "stars": 1628,
@@ -1290,7 +1290,7 @@
             "open_issues": 1,
             "owner": "InternScience",
             "repo": "MLEvolve",
-            "stars": 472,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1411,7 +1411,7 @@
             "open_issues": 182,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 7602,
+            "stars": 7617,
             "topics": [
               "agent-skills",
               "coding-agent",
@@ -1543,7 +1543,7 @@
                 "open_issues": 0,
                 "owner": "HKUSTDial",
                 "repo": "NL2SQL_Handbook",
-                "stars": 1640,
+                "stars": 1638,
                 "topics": [
                   "ai4db",
                   "awesome",
@@ -1580,7 +1580,7 @@
                 "open_issues": 7,
                 "owner": "SpursGoZmy",
                 "repo": "Awesome-Tabular-LLMs",
-                "stars": 640,
+                "stars": 641,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:28.572Z"
@@ -1626,7 +1626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:36:54.146Z",
+    "last_updated": "2026-11-28T00:03:51.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data analysis, data science & AutoML agents, database operations, agent memory, and benchmarks.",
